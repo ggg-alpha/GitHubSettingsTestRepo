@@ -1,1 +1,3 @@
 # GitHubSettingsTestRepo
+
+[LICENSE](./LICENSE)
